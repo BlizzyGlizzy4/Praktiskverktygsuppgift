@@ -1,0 +1,7 @@
+Jag har använt dessa kommandon i följande ordning:
+cd -Jag började med detta komandon för att säkerhetställa att jag var i min hemkatalog. 
+mkdir -Jag skapade en kursmapp som heter introduktion-till-modern-utvecklarroll
+cd -Jag gick in i min kursmapp.
+mkdir -När jag var inne i min kursmapp skapade jag en ny mapp för detta projekt som heter Vertygsuppgift.
+touch -Jag använde detta kommando för att skapa en .txt fil som jag sedan öppanade i vs code och skriver detta. 
+code . -Jag öppnade .txt filen i vs code
